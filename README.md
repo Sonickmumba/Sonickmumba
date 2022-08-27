@@ -14,7 +14,7 @@
 🎷 &nbsp;In my free time, I love to play soccer or watch tech documentaries.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting, volunteering, collaborations, or just for some interesting discussion.\
 ✉️ &nbsp;You can reach me on email at kingellie.mumba@gmail.com! I'll try to respond as soon as I can.\
-🌱 I’m currently looking for my next programming job :keyboard:
+🌱 I’m currently looking for my next programming job :keyboard:\
 📄 &nbsp;I'm open to feedback and suggestions!.\
 📫 Stay free to know a little more about myself and follow me on my networks. I love to make new friends and learn new things :pray:.
 <br/>
