@@ -66,6 +66,6 @@
 [![HackerRank Badge](https://img.shields.io/badge/-@kingellie_mumba?style=plastic&labelColor=1ba94c&logo=hackerrank&logoColor=white&link=https://www.hackerrank.com/@kingellie_mumba)](https://www.hackerrank.com/kingellie_mumba)
 
 <p align="center"> 
-  You are visitor number: <br>
+  Your number of visits: <br>
   <img src="https://profile-counter.glitch.me/Sonickmumba/count.svg" />
 </p>
