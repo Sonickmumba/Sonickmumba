@@ -2,21 +2,21 @@
 
  ## Hello World 👋
  
-  I am **Sonick Mumba** a Zambia citizen, software developer. <img align='right' src="./programmer.gif" width="230"> I am passionate about solving problems using technology and creating different solutions.
+  I am **Sonick Mumba** a Zambian citizen, software developer. <img align='right' src="./programmer.gif" width="230"> I am passionate about solving problems using technology and creating different solutions.
    
 <br/>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions.\
-🎓 &nbsp;A Masters degree in Mathemaatic at University of Zambia.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-🎷 &nbsp;In my free time, I love to play soccer or watch tech documentaries.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting, volunteering, collaborations, or just for some interesting discussion.\
-✉️ &nbsp;You can reach me on email at kingellie.mumba@gmail.com! I'll try to respond as soon as I can.\
+💡 &nbsp;I like to explore new technologies and develop software solutions\
+🎓 &nbsp;A Masters degree in Mathemaatic at University of Zambia\
+🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture\
+🎷 &nbsp;In my free time, I love to play soccer or watch tech documentaries\
+💬 &nbsp;Feel free to reach out to me for pro bono consulting, volunteering, collaborations, or just for some interesting discussion\
+✉️ &nbsp;You can reach me on email at kingellie.mumba@gmail.com! I'll try to respond as soon as I can\
 🌱 I’m currently looking for my next programming job :keyboard:\
-📄 &nbsp;I'm open to feedback and suggestions!.\
-📫 Stay free to know a little more about myself and follow me on my networks. I love to make new friends and learn new things :pray:.
+📄 &nbsp;I'm open to feedback and suggestions!\
+📫 Stay free to know a little more about myself and follow me on my networks. I love to make new friends and learn new things :pray:
 <br/>
 
 ### 🛠 Tech Stack
