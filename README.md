@@ -13,7 +13,6 @@
 
 💡 &nbsp;I like to explore new technologies and develop software solutions\
 🎓 &nbsp;A Masters degree graduate in Mathematic from University of Zambia\
-🎓 &nbsp;PhD student in Mathematic at Stellenbosch University\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture\
 🎷 &nbsp;In my free time, I love to play soccer or watch tech documentaries\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting, volunteering, collaborations, or just for some interesting discussion\
