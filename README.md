@@ -1,4 +1,4 @@
-# Sonick Mumba 
+<!-- # Sonick Mumba  -->
 
  # Hi there 👋, I'm Sonick Mumba
  ## I am a Full-Stack Developer | Software Engineer
@@ -6,9 +6,10 @@
  <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?color=00b2df&width=385&height=30&lines=Software+Developer+from+Zambia;Open-Source+Enthusiast;Learning+Every+Day;Nice+To+Meet+You;You're+Welcome+To+My+Space+...&center=true"></a>
 </p>
-![ferenc-almasi-eYpcLDXHVb0-unsplash](https://user-images.githubusercontent.com/106140591/236534494-13156450-b319-4e46-8080-05eb5480ca34.jpg)
 
-As a software engineer(full-stack developer),  width="230"> I am driven by a passion for learning and problem-solving through technology. I am deeply curious about the latest advancements in the field and am always eager to expand my knowledge and skills. My goal is to create innovative and effective solutions that make a real difference in people's lives. ✔️
+<!-- ![ferenc-almasi-eYpcLDXHVb0-unsplash](https://user-images.githubusercontent.com/106140591/236534494-13156450-b319-4e46-8080-05eb5480ca34.jpg) -->
+
+As a software engineer(full-stack developer), I am driven by a passion for learning and problem-solving through technology. I am deeply curious about the latest advancements in the field and am always eager to expand my knowledge and skills. My goal is to create innovative and effective solutions that make a real difference in people's lives. ✔️
 
 ### 👨🏻‍💻 &nbsp;About Me
  - 🔭 I’m currently working on Web-development projects
