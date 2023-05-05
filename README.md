@@ -7,9 +7,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=00b2df&width=385&height=30&lines=Software+Developer+from+Zambia;Open-Source+Enthusiast;Learning+Every+Day;Nice+To+Meet+You;You're+Welcome+To+My+Space+...&center=true"></a>
 </p>
 
-As a software engineer(full-stack developer), <img align='right' src="./programmer.gif" width="230"> I am driven by a passion for learning and problem-solving through technology. I am deeply curious about the latest advancements in the field and am always eager to expand my knowledge and skills. My goal is to create innovative and effective solutions that make a real difference in people's lives.
-<br/>
-
+As a software engineer(full-stack developer), <img align='right' src="./programmer.gif" width="230"> I am driven by a passion for learning and problem-solving through technology. I am deeply curious about the latest advancements in the field and am always eager to expand my knowledge and skills. My goal is to create innovative and effective solutions that make a real difference in people's lives. ✔️
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -22,7 +20,14 @@ As a software engineer(full-stack developer), <img align='right' src="./programm
 🌱 I’m currently looking for my next programming job :keyboard:\
 📄 &nbsp;I'm open to feedback and suggestions!\
 📫 Stay free to know a little more about myself and follow me on my networks. I love to make new friends and learn new things :pray:
-<br/>
+<br
+    
+## Skills:  
+ - Front-end Technologies: JavaScript (ES6), React, Redux, Webpack, Figma, Bootstrap, SASS, HTML & CSS
+ - Backend Technologies: Databases, SQL, Postgresql, Ruby on Rails, Rest API, Rspec Testing,Nodejs,PHP, Laravel , DOCKER
+ - Tools & Methods: Git, GitHub, Gitflow, WordPress, Elementor, Joomla, Heroku, Netlify, Render
+                     Mobile/Responsive -Development, Chrome Dev Tool
+ - Professional Skills: Remote Pair-Programming, Teamwork, Mentoring, Project management 
 
 ### 🛠 Tech Stack
 
