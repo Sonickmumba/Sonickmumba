@@ -1,15 +1,23 @@
 # Sonick Mumba 
 
- ## Hi there 👋, I'm Sonick Mumba
+ # Hi there 👋, I'm Sonick Mumba
  ## I am a Full-Stack Developer | Software Engineer
  ### Currently available for work
  <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?color=00b2df&width=385&height=30&lines=Software+Developer+from+Zambia;Open-Source+Enthusiast;Learning+Every+Day;Nice+To+Meet+You;You're+Welcome+To+My+Space+...&center=true"></a>
 </p>
+![ferenc-almasi-eYpcLDXHVb0-unsplash](https://user-images.githubusercontent.com/106140591/236534494-13156450-b319-4e46-8080-05eb5480ca34.jpg)
 
-As a software engineer(full-stack developer), <img align='right' src="./programmer.gif" width="230"> I am driven by a passion for learning and problem-solving through technology. I am deeply curious about the latest advancements in the field and am always eager to expand my knowledge and skills. My goal is to create innovative and effective solutions that make a real difference in people's lives. ✔️
+As a software engineer(full-stack developer),  width="230"> I am driven by a passion for learning and problem-solving through technology. I am deeply curious about the latest advancements in the field and am always eager to expand my knowledge and skills. My goal is to create innovative and effective solutions that make a real difference in people's lives. ✔️
 
 ### 👨🏻‍💻 &nbsp;About Me
+ - 🔭 I’m currently working on Web-development projects
+ - 🎓 A Masters degree graduate in Pure Mathematic from University of Zambia
+ - 💬 Ask me about Coding
+ - 📄 I'm open to feedback and suggestions!
+ - 🎷 In my free time, I love to play soccer or watch tech documentaries
+
+<!-- ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions\
 🎓 &nbsp;A Masters degree graduate in Mathematic from University of Zambia\
@@ -20,18 +28,24 @@ As a software engineer(full-stack developer), <img align='right' src="./programm
 🌱 I’m currently looking for my next programming job :keyboard:\
 📄 &nbsp;I'm open to feedback and suggestions!\
 📫 Stay free to know a little more about myself and follow me on my networks. I love to make new friends and learn new things :pray:
-<br
+<br -->
     
-## Skills:  
+### 🛠 Skills:  
  - Front-end Technologies: JavaScript (ES6), React, Redux, Webpack, Figma, Bootstrap, SASS, HTML & CSS
- - Backend Technologies: Databases, SQL, Postgresql, Ruby on Rails, Rest API, Rspec Testing,Nodejs,PHP, Laravel , DOCKER
- - Tools & Methods: Git, GitHub, Gitflow, WordPress, Elementor, Joomla, Heroku, Netlify, Render
+ - Backend Technologies: Databases, SQL, Postgresql, Ruby on Rails, Rest API, Rspec Testing,Nodejs
+ - Tools & Methods: Git, GitHub, Gitflow, Heroku, Netlify, Render
                      Mobile/Responsive -Development, Chrome Dev Tool
- - Professional Skills: Remote Pair-Programming, Teamwork, Mentoring, Project management 
+ - Professional Skills: Remote Pair-Programming, Teamwork, Mentoring, Good communication, leadership 
+ 
+### Contact me:
+- 📫 How to reach me: 
+  #### Github: https://github.com/Sonickmumba
+  #### LinkedIn: [Sonick Mumba](https://www.linkedin.com/in/sonickmumba/)
+  #### Email: kingellie.mumba@gmail.com 
+  #### Portfolio: https://sonickmumba.github.io/My-Portfolio/
+<!-- ### 🛠 Tech Stack -->
 
-### 🛠 Tech Stack
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+<!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
@@ -46,11 +60,7 @@ As a software engineer(full-stack developer), <img align='right' src="./programm
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sql)&nbsp;
-![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma&logoColor=1572B6)
-
-<br/>
-
-
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma&logoColor=1572B6) -->
 
 ## &#x1f4c8; GitHub Stats
 <div align='left'>
@@ -61,7 +71,6 @@ As a software engineer(full-stack developer), <img align='right' src="./programm
   <a href="https://github.com/Sonickmumba">
     <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonickmumba&layout=compact" />
   </a>
-
 
   <div align="left">
     <a href="https://github.com/Sonickmumba">
