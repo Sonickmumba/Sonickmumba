@@ -3,12 +3,13 @@
  ## Hi there 👋, I'm Sonick Mumba
  ## I am a Full-Stack Developer | Software Engineer
  ### Currently available for work
-  I am **Sonick Mumba**, a software developer. <img align='right' src="./programmer.gif" width="230"> I am passionate about solving problems using technology and creating different solutions.
-   
-<br/>
-<p align="center">
+ <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?color=00b2df&width=385&height=30&lines=Software+Developer+from+Zambia;Open-Source+Enthusiast;Learning+Every+Day;Nice+To+Meet+You;You're+Welcome+To+My+Space+...&center=true"></a>
 </p>
+
+As a software engineer(full-stack developer), <img align='right' src="./programmer.gif" width="230"> I am driven by a passion for learning and problem-solving through technology. I am deeply curious about the latest advancements in the field and am always eager to expand my knowledge and skills. My goal is to create innovative and effective solutions that make a real difference in people's lives.
+<br/>
+
 
 ### 👨🏻‍💻 &nbsp;About Me
 
