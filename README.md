@@ -1,7 +1,8 @@
 # Sonick Mumba 
 
- ## Hello World 👋
- 
+ ## Hi there 👋, I'm Sonick Mumba
+ ## I am a Full-Stack Developer | Software Engineer
+ ### Currently available for work
   I am **Sonick Mumba**, a software developer. <img align='right' src="./programmer.gif" width="230"> I am passionate about solving problems using technology and creating different solutions.
    
 <br/>
