@@ -43,7 +43,7 @@ As a software engineer(full-stack developer), I am driven by a passion for learn
   #### Github: https://github.com/Sonickmumba
   #### LinkedIn: [Sonick Mumba](https://www.linkedin.com/in/sonickmumba/)
   #### Email: kingellie.mumba@gmail.com 
-  #### Portfolio: https://sonickmumba.github.io/My-Portfolio/
+  #### Portfolio: [https://sonickmumba.github.io/My-Portfolio/](https://sonick-portfolio.netlify.app/)   
 <!-- ### 🛠 Tech Stack -->
 
 <!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
