@@ -13,7 +13,7 @@ As a software engineer(full-stack developer), I am driven by a passion for learn
 
 ### 👨🏻‍💻 &nbsp;About Me
  - 🔭 I’m currently working on Web-development projects
- - 🎓 A Masters degree graduate in Pure Mathematic from University of Zambia
+ - 🎓 A PhD student in Mathematic at Stellenbosch University, South Africa
  - 💬 Ask me about Coding
  - 📄 I'm open to feedback and suggestions!
  - 🎷 In my free time, I love to play soccer or watch tech documentaries
